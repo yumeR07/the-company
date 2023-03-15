@@ -44,6 +44,7 @@
             </form>
       
           <p class="small mt-3 text-center">Register Already? <a href="login.php">Login</a></p>
+          <p class="text-center text-muted">Copyright @ Kredo 2023</p>
       </div>
   </div>
 </div>
